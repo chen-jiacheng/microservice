@@ -14,6 +14,7 @@
     <modules>
         <module>user-service-api</module>
         <module>user-service-service</module>
+        <module>user-service-dao</module>
     </modules>
 
     <properties>

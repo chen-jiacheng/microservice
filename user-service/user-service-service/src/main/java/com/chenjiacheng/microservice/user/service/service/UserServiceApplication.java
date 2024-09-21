@@ -2,6 +2,7 @@ package com.chenjiacheng.microservice.user.service.service;
 
 import com.alibaba.nacos.spring.context.annotation.config.NacosPropertySource;
 import org.apache.dubbo.config.spring.context.annotation.EnableDubbo;
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author chenjiacheng
  * @since 1.0.0
  */
+@MapperScan("com.chenjiacheng.microservice.user.service.dao.mapper")
 @NacosPropertySource(dataId = "user-service", autoRefreshed = true)
 @EnableDubbo
 @SpringBootApplication
