@@ -1,0 +1,12 @@
+com.chenjiacheng.microservice.user.service.api.api.UserService+mapping|192.168.3.174|442cf4015509eda9c03e5ca3aceef752|2024-09-21 18:03:35
+com.chenjiacheng.microservice.trade.srvice.api.api.TradeService+mapping|192.168.3.174|d484d4d15684fd4a5a0dc67c0b9863ae|2024-09-21 18:05:06
+com.chenjiacheng.microservice.asset.service.api.api.AssetService+mapping|192.168.3.174|bbc685ecdbee1cdcd6906f4abbe711a9|2024-09-21 18:06:31
+com.chenjiacheng.microservice.user.service.api.api.UserService+mapping|192.168.3.174|442cf4015509eda9c03e5ca3aceef752|2024-09-21 18:26:14
+com.chenjiacheng.microservice.trade.srvice.api.api.TradeService+mapping|192.168.3.174|d484d4d15684fd4a5a0dc67c0b9863ae|2024-09-21 18:26:15
+com.chenjiacheng.microservice.asset.service.api.api.AssetService+mapping|192.168.3.174|bbc685ecdbee1cdcd6906f4abbe711a9|2024-09-21 18:26:16
+user-service+DEFAULT_GROUP|192.168.3.174|640572a9deb238863d0bd1223cfa9e3f|2024-09-21 18:27:34
+user-service+DEFAULT_GROUP|192.168.3.174|640572a9deb238863d0bd1223cfa9e3f|2024-09-21 18:27:53
+com.chenjiacheng.microservice.user.service.api.api.UserService+mapping|192.168.3.174|442cf4015509eda9c03e5ca3aceef752|2024-09-21 18:27:55
+com.chenjiacheng.microservice.trade.srvice.api.api.TradeService+mapping|192.168.3.174|d484d4d15684fd4a5a0dc67c0b9863ae|2024-09-21 18:27:56
+com.chenjiacheng.microservice.asset.service.api.api.AssetService+mapping|192.168.3.174|bbc685ecdbee1cdcd6906f4abbe711a9|2024-09-21 18:27:56
+user-service+DEFAULT_GROUP|192.168.3.174|7dd10969deac6a570dfeba4190ee6adb|2024-09-21 18:28:23

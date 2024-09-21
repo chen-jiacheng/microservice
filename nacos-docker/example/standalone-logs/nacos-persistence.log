@@ -1,0 +1,48 @@
+2024-09-21 17:24:34,527 INFO use local db service for init
+
+2024-09-21 17:24:35,439 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2024-09-21 17:24:35,443 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2024-09-21 17:24:35,879 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:24:35,880 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:24:35,882 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:24:35,883 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:24:35,883 INFO use StandaloneDatabaseOperateImpl
+
+2024-09-21 17:28:22,882 INFO use local db service for init
+
+2024-09-21 17:28:23,777 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2024-09-21 17:28:23,785 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2024-09-21 17:28:24,224 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:28:24,224 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:28:24,225 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:28:24,226 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:28:24,226 INFO use StandaloneDatabaseOperateImpl
+
+2024-09-21 17:35:41,679 INFO use local db service for init
+
+2024-09-21 17:35:43,378 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2024-09-21 17:35:43,387 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2024-09-21 17:35:43,929 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:35:43,931 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:35:43,932 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:35:43,934 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2024-09-21 17:35:43,934 INFO use StandaloneDatabaseOperateImpl
+

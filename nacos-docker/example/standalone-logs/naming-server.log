@@ -1,0 +1,121 @@
+2024-09-21 17:24:37,967 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-09-21 17:24:37,967 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-09-21 17:24:37,968 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-09-21 17:24:37,968 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-09-21 17:24:38,545 INFO Load instance extension handler []
+
+2024-09-21 17:27:26,562 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-09-21 17:27:26,588 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-09-21 17:28:26,244 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-09-21 17:28:26,244 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-09-21 17:28:26,245 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-09-21 17:28:26,245 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-09-21 17:28:26,713 INFO Load instance extension handler []
+
+2024-09-21 17:33:53,680 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-09-21 17:33:53,741 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-09-21 17:33:53,994 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-09-21 17:35:46,367 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-09-21 17:35:46,367 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-09-21 17:35:46,368 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-09-21 17:35:46,368 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-09-21 17:35:46,895 INFO Load instance extension handler []
+
+2024-09-21 18:00:53,506 INFO Client connection 1726912853497_192.168.65.1_36277 connect
+
+2024-09-21 18:00:54,061 INFO Client connection 1726912854050_192.168.65.1_36280 connect
+
+2024-09-21 18:00:54,961 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=0}, 1726912853497_192.168.65.1_36277
+
+2024-09-21 18:01:26,442 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=1}, 1726912853497_192.168.65.1_36277
+
+2024-09-21 18:01:28,553 INFO Client connection 1726912853497_192.168.65.1_36277 disconnect, remove instances and subscribers
+
+2024-09-21 18:01:28,557 INFO Client connection 1726912852152_192.168.65.1_36271 disconnect, remove instances and subscribers
+
+2024-09-21 18:01:28,559 INFO Client connection 1726912854050_192.168.65.1_36280 disconnect, remove instances and subscribers
+
+2024-09-21 18:01:29,918 INFO Client connection 1726912852630_192.168.65.1_36274 disconnect, remove instances and subscribers
+
+2024-09-21 18:03:14,710 WARN namespace : public, [DEFAULT_GROUP@@user-service] services are automatically cleaned
+
+2024-09-21 18:03:35,461 INFO Client connection 1726913015455_192.168.65.1_36319 connect
+
+2024-09-21 18:03:35,934 INFO Client connection 1726913015924_192.168.65.1_36322 connect
+
+2024-09-21 18:03:36,781 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=0}, 1726913015455_192.168.65.1_36319
+
+2024-09-21 18:04:50,603 INFO Client connection 1726913088548_192.168.65.1_36381 disconnect, remove instances and subscribers
+
+2024-09-21 18:04:51,018 INFO Client connection 1726913088864_192.168.65.1_36384 disconnect, remove instances and subscribers
+
+2024-09-21 18:05:06,470 INFO Client connection 1726913106463_192.168.65.1_36421 connect
+
+2024-09-21 18:05:06,927 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='trade-service', ephemeral=true, revision=0}, 1726913106463_192.168.65.1_36421
+
+2024-09-21 18:06:31,043 INFO Client connection 1726913191034_192.168.65.1_36549 connect
+
+2024-09-21 18:06:31,500 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='asset-service', ephemeral=true, revision=0}, 1726913191034_192.168.65.1_36549
+
+2024-09-21 18:26:02,966 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=1}, 1726913015455_192.168.65.1_36319
+
+2024-09-21 18:26:03,046 INFO Client connection 1726913015455_192.168.65.1_36319 disconnect, remove instances and subscribers
+
+2024-09-21 18:26:03,050 INFO Client connection 1726913014645_192.168.65.1_36316 disconnect, remove instances and subscribers
+
+2024-09-21 18:26:03,054 INFO Client connection 1726913015924_192.168.65.1_36322 disconnect, remove instances and subscribers
+
+2024-09-21 18:26:03,059 INFO Client connection 1726913014309_192.168.65.1_36313 disconnect, remove instances and subscribers
+
+2024-09-21 18:26:14,810 INFO Client connection 1726914374801_192.168.65.1_38925 connect
+
+2024-09-21 18:26:15,108 INFO Client connection 1726914375099_192.168.65.1_38928 connect
+
+2024-09-21 18:26:16,100 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=2}, 1726914374801_192.168.65.1_38925
+
+2024-09-21 18:27:45,372 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=3}, 1726914374801_192.168.65.1_38925
+
+2024-09-21 18:27:45,527 INFO Client connection 1726914371805_192.168.65.1_38911 disconnect, remove instances and subscribers
+
+2024-09-21 18:27:45,530 INFO Client connection 1726914373413_192.168.65.1_38919 disconnect, remove instances and subscribers
+
+2024-09-21 18:27:45,533 INFO Client connection 1726914374801_192.168.65.1_38925 disconnect, remove instances and subscribers
+
+2024-09-21 18:27:45,535 INFO Client connection 1726914373025_192.168.65.1_38916 disconnect, remove instances and subscribers
+
+2024-09-21 18:27:45,538 INFO Client connection 1726914375099_192.168.65.1_38928 disconnect, remove instances and subscribers
+
+2024-09-21 18:27:55,536 INFO Client connection 1726914475530_192.168.65.1_39134 connect
+
+2024-09-21 18:27:55,765 INFO Client connection 1726914475758_192.168.65.1_39137 connect
+
+2024-09-21 18:27:56,764 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=4}, 1726914475530_192.168.65.1_39134
+

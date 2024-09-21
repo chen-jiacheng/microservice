@@ -1,0 +1,8 @@
+2024-09-21 18:05:06,605 INFO push [1] clients, groupKey=[com.chenjiacheng.microservice.trade.srvice.api.api.TradeService+mapping]
+
+2024-09-21 18:06:31,156 INFO push [1] clients, groupKey=[com.chenjiacheng.microservice.asset.service.api.api.AssetService+mapping]
+
+2024-09-21 18:27:34,469 INFO push [1] clients, groupKey=[user-service+DEFAULT_GROUP]
+
+2024-09-21 18:28:23,360 INFO push [1] clients, groupKey=[user-service+DEFAULT_GROUP]
+
